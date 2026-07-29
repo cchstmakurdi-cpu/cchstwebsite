@@ -1,0 +1,18 @@
+This folder needs the following image files added before you deploy
+(same filenames as used in the HTML — just drop the files in, no code changes needed):
+
+  logo.jpg          — CCHST crest / logo
+  proprietor.jpg     — Prof. Benjamin Gowon Ahule
+  provost.jpg         — Dzenda Mathias Pahar
+  hod.jpg             — Joy Abeda
+  staff-yisa.png      — Yisa Msughter
+
+You can grab the originals from the old site at:
+  https://cchstmakurdi.netlify.app/assets/logo.jpg
+  https://cchstmakurdi.netlify.app/assets/proprietor.jpg
+  https://cchstmakurdi.netlify.app/assets/provost.jpg
+  https://cchstmakurdi.netlify.app/assets/hod.jpg
+  https://cchstmakurdi.netlify.app/assets/staff-yisa.png
+
+Right-click each → "Save image as..." → save it into this /assets folder with the exact
+filename shown above. Delete this .txt file once the images are in place.
